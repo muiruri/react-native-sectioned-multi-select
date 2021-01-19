@@ -38,7 +38,5 @@
     "url": "https://github.com/renrizzolo/react-native-sectioned-multi-select/issues"
   },
   "homepage": "https://github.com/renrizzolo/react-native-sectioned-multi-select#readme",
-  "dependencies": {
-    "react-native-modal": "^11.6.1"
-  }
+  "dependencies": {}
 }
